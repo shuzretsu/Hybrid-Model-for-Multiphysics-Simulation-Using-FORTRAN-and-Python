@@ -159,5 +159,5 @@ Simply just do some troubleshoot on :
 - **CUDA Issues**: Check if your GPU is CUDA-compatible and with the correct version of CUDA being installed.
 - **Python Issues**: Make sure all of required Python libraries stuff are installed via `pip3` and you're using Python 3.x.
 
-#NOTES
+# NOTES
 The code still in building and Im still confuse, but ok, since it is just for fun, i will update it.
