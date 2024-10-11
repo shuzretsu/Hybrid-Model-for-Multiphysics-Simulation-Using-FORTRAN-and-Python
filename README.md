@@ -160,4 +160,4 @@ Simply just do some troubleshoot on :
 - **Python Issues**: Make sure all of required Python libraries stuff are installed via `pip3` and you're using Python 3.x.
 
 # NOTES
-The code still in building and Im still confuse, but ok, since it is just for fun, i will update it.
+The code still in building and Im still on experimenting, but ok, since it is just for fun, but i will update it.
