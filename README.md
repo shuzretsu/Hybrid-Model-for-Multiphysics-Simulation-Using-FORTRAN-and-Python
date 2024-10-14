@@ -5,16 +5,16 @@
 
 To run the multiphysics simulation, we will need software such as :
 
-1. **Fortran Compiler**: it is required to compile the Fortran code.
+1. **Fortran Compiler**: to compile the Fortran code.
     - Install with: 
       ```bash
       sudo apt install gfortran
       ```
    
-2. **CUDA Toolkit**: required to run the CUDA files for GPU acceleration.
+2. **CUDA Toolkit**: to run the CUDA files for GPU acceleration.
     - Install CUDA following the official guide: [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit).
 
-3. **Python**: Python 3.x with the necessary libraries.
+3. **Python**: Python 3.x
     - Just install Python and required packages:
       ```bash
       sudo apt install python3 python3-pip
@@ -29,7 +29,3 @@ To run the multiphysics simulation, we will need software such as :
 
 ---
 <br>
-In Progress...
-
-# NOTES
-The code still in building and Im still on experimenting, but ok, since it is just for fun, but i will update it.
